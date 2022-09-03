@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gilboa</string>
+    <string name="intro1"> מקווים שנהנתם&#128578;</string>
+    <string name="intro2">וכעת, במידה והתחברתם לקונספט</string>
+    <string name="intro3">אנו מאמינים שתרצו לשמוע על החדר החדש שנפתח בעתיד.</string>
+    <string name="intro4">השאירו לנו פרטים ותקבלו עדכון והזמנה אישית!</string>
+    <string name="background">background</string>
+    <string name="failedicon">failedIcon</string>
+    <string name="correcticon">CorrectIcon</string>
+    <string name="form_intro">מלאו את הטופס והרשמו</string>
+    <string name="failed_intro1"> זה לא אתם זה אנחנו..&#x1F61F; </string>
+    <string name="failed_intro2">יש לנו בעיית תקשורת כרגע</string>
+    <string name="failed_intro3">אבל אל דאגה, אפשר להשאיר פרטים גם אצל המפעיל</string>
+    <string name="failed_intro4">ואנחנו נוסיף אותכם לרשימה</string>
+    <string name="correct_intro1"> אתם בפנים! &#128578;</string>
+    <string name="correct_intro2">הצתרפתם לרשימה המיוחדת</string>
+    <string name="correct_intro3">על החדר הבא תקבלו הזמנה ראשונים</string>
+    <string name="correct_intro4">נשמח לראותכם שוב (:</string>
+    <string name="RadioText">אזור בארץ</string>
+    <string name="buttonText">שמור אותי!</string>
+</resources>
